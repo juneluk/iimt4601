@@ -1,0 +1,8 @@
+.containerMain{
+    width: 100%;
+}
+
+button{
+    width: 200px;
+    height: fit-content;
+}
