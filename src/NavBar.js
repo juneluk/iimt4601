@@ -39,7 +39,7 @@ class NavBar extends React.Component {
         </Menu.Item>
 
         <Menu.Item key="LoginPage">
-          <Link to="/Login">LoginPage</Link>
+          <Link to="/LoginPage">LoginPage</Link>
         </Menu.Item>
 
         <Menu.Item key="Page1">
